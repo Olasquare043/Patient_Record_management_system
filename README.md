@@ -1,0 +1,2 @@
+# Patient_Record_management_system
+ This project is aim to help hopital manegement in patient record keeping activities and help in fast and easy retriever of patitient record for making some medical decision. Also set to deduced the waiting time of patients before getting doctor's attention and speedup the work of some section of the hospital such as Nurse(vital sign check up), lab. officer, pharmacist and doctor.

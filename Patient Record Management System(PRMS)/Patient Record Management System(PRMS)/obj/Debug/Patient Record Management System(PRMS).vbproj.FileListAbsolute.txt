@@ -1,0 +1,23 @@
+C:\Users\HARBIORLAR PC\Documents\Visual Studio 2013\Projects\Patient Record Management System(PRMS)\Patient Record Management System(PRMS)\bin\Debug\Patient Record Management System(PRMS).exe.config
+C:\Users\HARBIORLAR PC\Documents\Visual Studio 2013\Projects\Patient Record Management System(PRMS)\Patient Record Management System(PRMS)\bin\Debug\Patient Record Management System(PRMS).exe
+C:\Users\HARBIORLAR PC\Documents\Visual Studio 2013\Projects\Patient Record Management System(PRMS)\Patient Record Management System(PRMS)\bin\Debug\Patient Record Management System(PRMS).pdb
+C:\Users\HARBIORLAR PC\Documents\Visual Studio 2013\Projects\Patient Record Management System(PRMS)\Patient Record Management System(PRMS)\bin\Debug\Patient Record Management System(PRMS).xml
+C:\Users\HARBIORLAR PC\Documents\Visual Studio 2013\Projects\Patient Record Management System(PRMS)\Patient Record Management System(PRMS)\obj\Debug\Patient_Record_Management_System_PRMS_.Adminpage.resources
+C:\Users\HARBIORLAR PC\Documents\Visual Studio 2013\Projects\Patient Record Management System(PRMS)\Patient Record Management System(PRMS)\obj\Debug\Patient_Record_Management_System_PRMS_.doctor_dashboard.resources
+C:\Users\HARBIORLAR PC\Documents\Visual Studio 2013\Projects\Patient Record Management System(PRMS)\Patient Record Management System(PRMS)\obj\Debug\Patient_Record_Management_System_PRMS_.edit_profile.resources
+C:\Users\HARBIORLAR PC\Documents\Visual Studio 2013\Projects\Patient Record Management System(PRMS)\Patient Record Management System(PRMS)\obj\Debug\Patient_Record_Management_System_PRMS_.lab_officer_dashboard.resources
+C:\Users\HARBIORLAR PC\Documents\Visual Studio 2013\Projects\Patient Record Management System(PRMS)\Patient Record Management System(PRMS)\obj\Debug\Patient_Record_Management_System_PRMS_.nurse_dashboard.resources
+C:\Users\HARBIORLAR PC\Documents\Visual Studio 2013\Projects\Patient Record Management System(PRMS)\Patient Record Management System(PRMS)\obj\Debug\Patient_Record_Management_System_PRMS_.pharmacist_dashboard.resources
+C:\Users\HARBIORLAR PC\Documents\Visual Studio 2013\Projects\Patient Record Management System(PRMS)\Patient Record Management System(PRMS)\obj\Debug\Patient_Record_Management_System_PRMS_.login.resources
+C:\Users\HARBIORLAR PC\Documents\Visual Studio 2013\Projects\Patient Record Management System(PRMS)\Patient Record Management System(PRMS)\obj\Debug\Patient_Record_Management_System_PRMS_.Resources.resources
+C:\Users\HARBIORLAR PC\Documents\Visual Studio 2013\Projects\Patient Record Management System(PRMS)\Patient Record Management System(PRMS)\obj\Debug\Patient_Record_Management_System_PRMS_.passwordreset.resources
+C:\Users\HARBIORLAR PC\Documents\Visual Studio 2013\Projects\Patient Record Management System(PRMS)\Patient Record Management System(PRMS)\obj\Debug\Patient_Record_Management_System_PRMS_.record_officer_dashboard.resources
+C:\Users\HARBIORLAR PC\Documents\Visual Studio 2013\Projects\Patient Record Management System(PRMS)\Patient Record Management System(PRMS)\obj\Debug\Patient Record Management System(PRMS).vbproj.GenerateResource.Cache
+C:\Users\HARBIORLAR PC\Documents\Visual Studio 2013\Projects\Patient Record Management System(PRMS)\Patient Record Management System(PRMS)\obj\Debug\Patient Record Management System(PRMS).exe
+C:\Users\HARBIORLAR PC\Documents\Visual Studio 2013\Projects\Patient Record Management System(PRMS)\Patient Record Management System(PRMS)\obj\Debug\Patient Record Management System(PRMS).xml
+C:\Users\HARBIORLAR PC\Documents\Visual Studio 2013\Projects\Patient Record Management System(PRMS)\Patient Record Management System(PRMS)\obj\Debug\Patient Record Management System(PRMS).pdb
+C:\Users\HARBIORLAR PC\Documents\Visual Studio 2013\Projects\Patient Record Management System(PRMS)\Patient Record Management System(PRMS)\obj\Debug\Patient Record Management System(PRMS).vbprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Patient Record Management System(PRMS)\Patient Record Management System(PRMS)\Patient Record Management System(PRMS)\bin\Debug\Patient Record Management System(PRMS).exe.config
+C:\Users\USER\Desktop\Patient Record Management System(PRMS)\Patient Record Management System(PRMS)\Patient Record Management System(PRMS)\obj\Debug\Patient Record Management System(PRMS).exe
+C:\Users\USER\Desktop\Patient Record Management System(PRMS)\Patient Record Management System(PRMS)\Patient Record Management System(PRMS)\obj\Debug\Patient Record Management System(PRMS).xml
+C:\Users\USER\Desktop\Patient Record Management System(PRMS)\Patient Record Management System(PRMS)\Patient Record Management System(PRMS)\obj\Debug\Patient Record Management System(PRMS).pdb
